@@ -27,6 +27,10 @@ Passionate about applying my skills to challenging QA roles that drive quality a
 
 ⚡ **Fun fact**  
 Designed and executed over 600 detailed test cases across mobile, web, and console platforms, consistently delivering high-quality results.
+
+💬 **Questions or inquiries?**  
+I’m always open to professional discussions and opportunities. Feel free to reach out to me [Here!](https://www.linkedin.com/in/mirzo-daminov-1ab131201)
+
 <br>
 
 
